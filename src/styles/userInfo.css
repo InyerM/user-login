@@ -1,0 +1,15 @@
+.user-card{
+    background: linear-gradient(360deg, rgb(49, 64, 71) 0%, rgba(28,35,43,1) 100%);
+    width: 30rem;
+    border-radius: 5px;
+    padding: 2rem 2rem 0 2rem;
+}
+
+.user-card p, .user-card h3{
+    line-height: 0.5;
+}
+
+.user-card h3{
+    margin-bottom: 2rem;
+    font-size: 22px;
+}
